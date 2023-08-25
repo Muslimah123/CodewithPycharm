@@ -1,7 +1,6 @@
-from library import greet
 
 def main():
-    greet()
+
     print("Abdul Nasir is Hidaya's first love")
 
 
